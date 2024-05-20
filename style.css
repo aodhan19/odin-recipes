@@ -1,0 +1,13 @@
+* {
+    text-align: center;
+}
+
+h1 {
+    font-family: "Garamond", "Georgia", serif;
+    font-size: large;
+}
+
+.link-to-recipe {
+    font-family: Helvetica, Verdana, sans-serif;
+    background-color: lightgray;
+}
