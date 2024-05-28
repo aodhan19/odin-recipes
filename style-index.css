@@ -1,9 +1,31 @@
 .menu-page {
-   text-align: center;
+    width: 400px;
+    margin: 18px auto;
+    text-align: center;
+}
+
+.title {
+    display: block;
+    box-sizing: border-box;
+    margin: 10px auto;
+    width: 300px;
+    padding: 8px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: large;
+    font-weight: bold;
+    background-color: azure;
 }
 
 .link-to-recipe {
     display: block;
+    box-sizing: border-box;
+    width: 200px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    color: turquoise;
+    padding: 6px;
+    margin: 10px auto;
+    background-color: aliceblue; 
+}
+
+a {
+    color: navy;
 }
